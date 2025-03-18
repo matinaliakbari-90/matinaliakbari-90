@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Front-End Developer<br><br>🤝 I'm open to collaborating on interesting projects as a web and  developer<br>🎮 I play in my free time!
+🖥️ Front-End Programmer<br><br>🤝 I'm open to collaborating on interesting projects as a web and  developer<br>🎮 I play in my free time!
 
 
 ## 🌐 Socials:
